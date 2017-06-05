@@ -1,2 +1,3 @@
 # OthelloPlayer
-Othello Player
+Othello "Inteligent" Player
+Mini Max Algorithm with Poda Alfa-Beta
