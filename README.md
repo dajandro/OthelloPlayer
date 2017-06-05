@@ -1,0 +1,2 @@
+# OthelloPlayer
+Othello Player
